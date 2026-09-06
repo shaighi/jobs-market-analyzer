@@ -63,7 +63,7 @@ Currently using mock data. Can be extended to scrape from:
 
 ## Author
 
-[Your Name] - Capital University of Science and Technology
+sanaullah ch
 
 ## License
 
@@ -71,4 +71,4 @@ MIT License
 
 ## Contact
 
-Email: your.email@example.com
+Email: sanaullahc090@gmail.com
